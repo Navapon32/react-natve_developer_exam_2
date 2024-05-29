@@ -24,7 +24,8 @@ TriviaApp เป็นแอปพลิเคชันที่ช่วยใ�
    cd TriviaApp
 
 3. Install dependencies:
-     ```bash
+   
+    ```bash
   npm install
 
 
