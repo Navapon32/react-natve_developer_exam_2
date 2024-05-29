@@ -25,7 +25,7 @@ TriviaApp เป็นแอปพลิเคชันที่ช่วยใ�
 
 3. Install dependencies:
    
-    ```bash
+  ```bash
   npm install
 
 
